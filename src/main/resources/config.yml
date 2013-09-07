@@ -1,0 +1,5 @@
+# Check for chunk unloads.
+# This option enables a listener which hides regions if their chunks are unloaded.
+# As a lot of chunks are unloaded at a time, this can cause a lot calculations, which may lag.
+# If you turn this off, you'll have to hide and then show the region once you load the chunk again.
+enable_chunk_listener: false

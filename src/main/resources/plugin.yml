@@ -1,0 +1,4 @@
+name: PGMToolkit
+version: 0.1
+main: nl.thijsmolendijk.pgmtoolkit.PGMToolkit
+author: molenzwiebel
