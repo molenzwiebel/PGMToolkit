@@ -27,7 +27,7 @@
 		</dependency>
 		<dependency>
 			<groupId>com.sk89q</groupId>
-			<artifactId>sk89q-command-framework-core</artifactId>
+			<artifactId>command-framework-core</artifactId>
 			<version>0.4</version>
 		</dependency>
 		<dependency>
