@@ -15,7 +15,7 @@
 		</repository>
 		<repository>
 			<id>repo.oc.tc</id>
-			<url>http://repo.oc.tc/content/repositories/releases/</url>
+			<url>https://repo.oc.tc/content/groups/public</url>
 		</repository>
 	</repositories>
 	<dependencies>
